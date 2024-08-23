@@ -45,20 +45,26 @@ Ich möchte eine Portfolio Webseite programmieren, auf der man Daten von mir, Pr
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist     | Zuständig | Beschreibung                                               | geplante Zeit |
+| ---- | --------- | --------- | ---------------------------------------------------------- | ------------- |
+| 1.A  | 30.08.2024   | Joël Haldimann    | Entwicklung und Strukturierung der Navbar sowie Implementierung der Navigation zu allen Hauptseiten | 3 Lektionen   |
+| 1.B  | 30.08.2024  | Joël Haldimann    | Stilisierung der Navbar (Desktop-Version)                  | 3 Lektion     |
+| 2.A  | [Frist]   | Joël Haldimann    | Erstellen der Projekte-Seite, Einfügen von Projektinformationen und Implementierung der Projektliste | 4 Lektionen   |
+| 2.B  | [Frist]   |Joël Haldimann   | Hinzufügen von Links zum Code  der Projekte und Testen der Links | 1 Lektionen   |
+| 3.A  | [Frist]   | Joël Haldimann    | Erstellen der About me Seite, Einfügen und Kategorisieren der Daten | 2 Lektionen   |
+| 3.B  | [Frist]   | Joël Haldimann   | Stilisierung der Fähigkeiten-Seite                         | 3 Lektion     |
+| 4.A  | [Frist]   | Joël Haldimann   | Erstellen der Über-mich-Seite, Hinzufügen von persönlichen Fakten und Bildern | 2 Lektionen   |
+| 4.B  | [Frist]   |Joël Haldimann   | Stilisierung der Über-mich-Seite                           | 3 Lektion     |
+| 5.A  | [Frist]   | Joël Haldimann   | Erstellen der Kontaktseite | 2 Lektionen   |
+| 6.A  | [Frist]   | Joël Haldimann    | Anpassung der gesamten Webseite für mobile Geräte (Responsive Design) | 6 Lektionen   |
+| 6.B  | [Frist]   | Joël Haldimann  | Testen der Webseite auf verschiedenen Browsern             | 2 Lektion     |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 31
+Puffer: 4
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich dazu entschieden eine Portfolio Webseite mit React zu programmieren
 
 ## 4 Realisieren
 
