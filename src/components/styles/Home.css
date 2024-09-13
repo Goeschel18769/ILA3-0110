@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 5%;
+}
+
+.profile {
+  display: inline-block;
+  text-align: left;
+  max-width: 60%;
+}
+
+.profile-img {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.description {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    margin-bottom: 165px;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    margin-bottom: 65px;
+  }
+}
