@@ -11,7 +11,7 @@ const Home = () => {
 
       <section className="profile">
         <img
-          src="./img/startPage1.jpg"
+          src="./img/Portrait2.jpg"
           alt="Picture of Joël Haldimann"
           className="profile-img"
         />

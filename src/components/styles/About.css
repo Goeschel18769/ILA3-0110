@@ -8,7 +8,7 @@
 }
 
 .profileImage {
-  width: 200px;
+  width: 15%;
   height: auto;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -101,7 +101,7 @@
   margin-bottom: 40px;
 }
 
-/* Responsive Anpassungen */
+
 @media (max-width: 768px) {
   .personalInfo {
     flex-direction: column;
@@ -150,11 +150,11 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr); 
     gap: 25px;
-    margin-left: -2px;
+    margin-left: -20px;
   }
 
   .skill, .skillImg {
-    width: 100%;
+    width: 90%;
     padding: 10px;
   }
 
