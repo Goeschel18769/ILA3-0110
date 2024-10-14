@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./styles/About.css";
 import { FaReact, FaJs, FaHtml5, FaCss3Alt } from "react-icons/fa";
 import { BiLogoMongodb } from "react-icons/bi";
 import { BsFiletypeSql } from "react-icons/bs";
 
+//Dieser Code wurde mit Hilfe von ChatGPT programmiert
 function calculateAge(birthday) {
   const today = new Date();
   const birthDate = new Date(birthday);
@@ -19,6 +20,7 @@ function calculateAge(birthday) {
 
   return age;
 }
+//Bis hier
 
 const About = () => {
   const birthday = "2006-11-26";
@@ -61,7 +63,7 @@ const About = () => {
           </tbody>
         </table>
         <img
-          src="./img/AboutMeImg.png"
+          src="./img/Bild5.JPG"
           alt="Joël Haldimann"
           className="profileImage"
         />

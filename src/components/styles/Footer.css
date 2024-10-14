@@ -1,6 +1,5 @@
 main {
   flex: 1;
-  padding-bottom: 12.4%;
 }
 
 .footer {
@@ -56,13 +55,13 @@ main {
 
   main {
     flex: 1; 
-    padding-bottom: 13%;
+
   }
 
   .footer {
     position: relative; 
     bottom: 0;
     width: 100%;
-    margin-top: 35%;
+
   }
 }
