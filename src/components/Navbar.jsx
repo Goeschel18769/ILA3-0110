@@ -42,13 +42,13 @@ const Navbar = ({ setCurrentPage }) => {
           className="navButton"
           onClick={() => handleMenuClick("Projects", "/projects")}
         >
-          Projects
+          Projekte
         </button>
         <button
           className="navButton"
           onClick={() => handleMenuClick("Contact", "/contact")}
         >
-          Contact
+          Kontakt
         </button>
       </div>
     </nav>
