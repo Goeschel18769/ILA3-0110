@@ -1,14 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-Jool Klein/Haldimann Joël
-
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+Haldimann Joël
 
 ## 1 Informieren
 
@@ -32,34 +24,27 @@ Ich möchte eine Portfolio Webseite programmieren, auf der man Daten von mir, Pr
 
 | TC-№ | Ausgangslage                                                  | Eingabe                                                   | Erwartete Ausgabe                                                                                           |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 1.1  | Startseite wird aufgerufen                                    | Keine                                                     | Eine übersichtliche Navbar wird oben auf der Seite angezeigt, mit Links zu den Hauptseiten (Projekte, Fähigkeiten, Kontakt). |
+| 1.1  | Startseite wird aufgerufen                                    | Keine                                                     | Eine übersichtliche Navbar wird oben angezeigt, mit Links zu den Hauptseiten (Projekte, About, Kontakt). |
 | 2.1  | Projekte-Seite wird aufgerufen                                | Klick auf "Projekte" in der Navbar                        | Eine Liste der Projekte wird korrekt angezeigt, jedes Projekt hat einen Titel und eine kurze Beschreibung.   |
-| 3.1  | Ein Projekt in der Liste ist sichtbar                         | Klick auf ein "Code anzeigen" oder "GitHub-Link" eines Projekts | Der Quellcode des Projekts wird entweder in einem neuen Tab (z.B. auf GitHub) oder eingebettet in der Webseite angezeigt. |
-| 4.1  | Fähigkeiten-Seite wird aufgerufen                             | Klick auf "Fähigkeiten" in der Navbar                     | Eine Liste der Fähigkeiten wird korrekt dargestellt, kategorisiert nach verschiedenen Bereichen (z.B. Webentwicklung, Design). |
-| 6.1  | Über-mich-Seite wird aufgerufen                               | Klick auf "Über mich" in der Navbar                       | Interessante persönliche Fakten und Informationen werden auf der Seite korrekt dargestellt.                 |
-| 7.1  | Kontaktseite wird aufgerufen                                  | Klick auf "Kontakt" in der Navbar                         | Die Kontaktseite wird korrekt geladen, mit Kontaktinformationen. |
+| 3.1  | Ein Projekt in der Liste ist sichtbar                         | Klick auf ein "Zum COde" eines Projekts | Der Quellcode des Projekts wird auf GitHub angezeigt.|
+| 4.1  | About-Me-Seite wird aufgerufen                             | Klick auf "About" in der Navbar                     | Eine Liste der Fähigkeiten und Informationeen wird dargestellt. |
+| 7.1  | Kontaktseite wird aufgerufen                                  | Klick auf "Kontakt" in der Navbar                         | Die Kontaktseite wird korrekt geladen, mit Kontankmöglichkeiten. |
 | 8.1  | Webseite wird auf einem mobilen Gerät aufgerufen              | Keine                                                     | Die Webseite wird responsiv dargestellt. |
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
 ## 2 Planen
 
-| AP-№ | Frist     | Zuständig | Beschreibung                                               | geplante Zeit |
-| ---- | --------- | --------- | ---------------------------------------------------------- | ------------- |
-| 1.A  | 30.08.2024   | Joël Haldimann    | Entwicklung und Strukturierung der Navbar sowie Implementierung der Navigation zu allen Hauptseiten | 3 Lektionen   |
-| 1.B  | 30.08.2024  | Joël Haldimann    | Stilisierung der Navbar (Desktop-Version)                  | 3 Lektion     |
-| 2.A  | [Frist]   | Joël Haldimann    | Erstellen der Projekte-Seite, Einfügen von Projektinformationen und Implementierung der Projektliste | 4 Lektionen   |
-| 2.B  | [Frist]   |Joël Haldimann   | Hinzufügen von Links zum Code  der Projekte und Testen der Links | 1 Lektionen   |
-| 3.A  | [Frist]   | Joël Haldimann    | Erstellen der About me Seite, Einfügen und Kategorisieren der Daten | 2 Lektionen   |
-| 3.B  | [Frist]   | Joël Haldimann   | Stilisierung der Fähigkeiten-Seite                         | 3 Lektion     |
-| 4.A  | [Frist]   | Joël Haldimann   | Erstellen der Über-mich-Seite, Hinzufügen von persönlichen Fakten und Bildern | 2 Lektionen   |
-| 4.B  | [Frist]   |Joël Haldimann   | Stilisierung der Über-mich-Seite                           | 3 Lektion     |
-| 5.A  | [Frist]   | Joël Haldimann   | Erstellen der Kontaktseite | 2 Lektionen   |
-| 6.A  | [Frist]   | Joël Haldimann    | Anpassung der gesamten Webseite für mobile Geräte (Responsive Design) | 6 Lektionen   |
-| 6.B  | [Frist]   | Joël Haldimann  | Testen der Webseite auf verschiedenen Browsern             | 2 Lektion     |
+| AP-№ | Frist | Zuständig       | Beschreibung                                                                                     | geplante Zeit |
+| ---- | ----- | --------------- | ------------------------------------------------------------------------------------------------ | ------------- |
+| 1.A  | 25.10.2024      | Joël Haldimann  | Entwicklung und Strukturierung der Navbar sowie Implementierung der Navigation zu allen Hauptseiten | 3              |
+| 1.B  | 25.10.2024      | Joël Haldimann  | Stilisierung der Navbar (Desktop-Version)                                                        | 2              |
+| 2.A  | 25.10.2024      | Joël Haldimann  | Erstellen und Gestaltung der Footer- und Startseite                                              | 4              |
+| 3.A  | 25.10.2024      | Joël Haldimann  | Aufräumen der GitHub-Repositories und Darstellung der besten Projekte auf der Webseite           | 1              |
+| 4.A  | 25.10.2024      | Joël Haldimann  | Gestaltung der «About me» Seite                                                                  | 5              |
+| 5.A  | 25.10.2024      | Joël Haldimann  | Programmierung der Contact-Seite                                                                 | 2              |
+| 6.A  | 25.10.2024      | Joël Haldimann  | Optimierung der gesamten Webseite für große und kleine Bildschirme                               | 2              |
+| 6.B  | 25.10.2024      | Joël Haldimann  | Anpassung der Webseite für mobile Geräte (Responsive Design)                                     | 7              |
 
-Total: 31
+Total: 26
 Puffer: 4
 
 ## 3 Entscheiden
@@ -70,21 +55,25 @@ Ich habe mich dazu entschieden eine Portfolio Webseite mit React zu programmiere
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 23.08.2045      | Joël Haldimann          | 135 min              | 150 min                  |
+| 1.B  | 23.08.2045      | Joël Haldimann          | 90 min              | 70 min                  |
+| 2.A  | 30.08.2024      | Joël Haldimann          | 180 min              | 190 min                  |
+| 3.A  | 06.09.2024      | Joël Haldimann          | 45 min              | 80 min                  |
+| 4.A  | 06.09.2024      | Joël Haldimann          | 225 min              | 205 min                  |
+| 5.A  | 13.09.2024      | Joël Haldimann          | 90 min             | 60 min                  |
+| 6.A  | 13.09.2024      | Joël Haldimann          | 90 min              | 110 min                  |
+| 6.B  | 14.10.2024      | Joël Haldimann          | 315 min              | 305 min                  |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
-
+| 1.1  | 25.10.2024      | OK         | Joël Haldimann       |
+| 2.1  | 25.10.2024      | OK         | Joël Haldimann       |
+| 3.1  | 25.10.2024      | OK         | Joël Haldimann       |
+| 4.1  | 25.10.2024      | OK         | Joël Haldimann       |
+| 5.1  | 25.10.2024      | OK         | Joël Haldimann       |
+| 6.1  | 25.10.2024      | OK         | Joël Haldimann       |
+| 7.1  | 25.10.2024      | OK         | Joël Haldimann       |
+| 8.1  | 25.10.2024      | OK         | Joël Haldimann       |
