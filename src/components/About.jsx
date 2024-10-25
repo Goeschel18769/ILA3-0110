@@ -69,7 +69,7 @@ const About = () => {
         />
       </div>
 
-      <h2>My Skills</h2>
+      <h2>Meine Skills</h2>
       <div className="skills">
         <div className="skill">
           <FaReact className="skillsLogos" />

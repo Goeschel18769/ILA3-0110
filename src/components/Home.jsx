@@ -7,6 +7,10 @@ const Home = () => {
       <header className="header">
         <p>Willkommen, mein Name ist</p>
         <h1> Joël Haldimann</h1>
+        <p>
+          Angehender Informatiker mit Leidenschaft für Code und kreative
+          Lösungen.
+        </p>
       </header>
 
       <section className="profile">
@@ -15,10 +19,6 @@ const Home = () => {
           alt="Picture of Joël Haldimann"
           className="profile-img"
         />
-        <p className="description">
-          Jeder Sieg in Fortnite ist nur ein kurzer Augenblick des Glanzes, aber
-          die Niederlagen bleiben oft länger und prägen uns tiefer.
-        </p>
       </section>
     </div>
   );
