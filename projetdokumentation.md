@@ -55,8 +55,8 @@ Ich habe mich dazu entschieden eine Portfolio Webseite mit React zu programmiere
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 23.08.2045      | Joël Haldimann          | 135 min              | 150 min                  |
-| 1.B  | 23.08.2045      | Joël Haldimann          | 90 min              | 70 min                  |
+| 1.A  | 23.08.2024      | Joël Haldimann          | 135 min              | 150 min                  |
+| 1.B  | 23.08.2024      | Joël Haldimann          | 90 min              | 70 min                  |
 | 2.A  | 30.08.2024      | Joël Haldimann          | 180 min              | 190 min                  |
 | 3.A  | 06.09.2024      | Joël Haldimann          | 45 min              | 80 min                  |
 | 4.A  | 06.09.2024      | Joël Haldimann          | 225 min              | 205 min                  |
